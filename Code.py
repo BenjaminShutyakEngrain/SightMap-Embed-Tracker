@@ -1,3 +1,4 @@
+#This file is the code for the webscraper tool
 import datetime
 import re
 from urllib.parse import urlparse, urljoin
