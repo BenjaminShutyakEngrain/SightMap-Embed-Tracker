@@ -1,0 +1,195 @@
+Website,SightMap Integrated?,SightMap Embed,API Usage,Closest URL to SightMap,Time,Date
+http://www.indigo301.com/,Yes,https://sightmap.com/embed/l8xvr450pjk,No,http://www.indigo301.com/floorplans,16:49:28,2024-01-11
+https://www.loneoakapartments.com/,Yes,https://sightmap.com/embed/60p7qj2ew7n,No,https://www.loneoakapartments.com/Interactive-Map.aspx,16:49:44,2024-01-11
+https://crosstownatx.com/,Yes,https://sightmap.com/embed/x1p80131wd6?enable_api=1&origin=https://crosstownatx.com,Yes,https://crosstownatx.com/floorplans/,16:49:55,2024-01-11
+https://presidiumparkapts.com/,Yes,https://sightmap.com/embed/8ywkqnn9wlx?enable_api=1&origin=https://presidiumparkapts.com,Yes,https://presidiumparkapts.com/floorplans/,16:50:04,2024-01-11
+https://presidiumregalapts.com/,Yes,https://sightmap.com/embed/rxwj622dp1e?enable_api=1&origin=https://presidiumregalapts.com,Yes,https://presidiumregalapts.com/floorplans/,16:50:14,2024-01-11
+https://www.livingatthecameron.com/,No,,,,16:50:34,2024-01-11
+https://prosedistrictwest.com/,Yes,https://sightmap.com/embed/yjp2z2grpxl?enable_api=1&origin=https://prosedistrictwest.com,Yes,https://prosedistrictwest.com/floorplans/,16:50:44,2024-01-11
+https://www.livetheithacan.com/,Yes,https://sightmap.com/embed/n9w6ngdrp71?enable_api=1&origin=https://livetheithacan.com,Yes,https://www.livetheithacan.com/floorplans/,16:50:52,2024-01-11
+http://www.valleyridgeliving.com,"Error loading http://www.valleyridgeliving.com/floor-plans.aspx: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+http://www.valleyridgeliving.com,"Error loading http://www.valleyridgeliving.com/Gallery.aspx: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+http://www.valleyridgeliving.com,"Error loading http://www.valleyridgeliving.com/Amenities.aspx: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+http://www.valleyridgeliving.com,"Error loading http://www.valleyridgeliving.com/Location.aspx: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+http://www.valleyridgeliving.com,"Error loading http://www.valleyridgeliving.com/Contact.aspx: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+http://www.valleyridgeliving.com,"Error loading http://www.valleyridgeliving.com/accessibility-statement.aspx: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+http://www.valleyridgeliving.com,"Error loading http://www.valleyridgeliving.com/neighborhood.aspx: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+http://www.valleyridgeliving.com,No,,,,16:50:57,2024-01-11
+https://www.baileyscrossing.com/,"Error loading https://www.baileyscrossing.com/: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+0   chromedriver                        0x0000000102b7d670 chromedriver + 4298352
+1   chromedriver                        0x0000000102b75bbc chromedriver + 4266940
+2   chromedriver                        0x00000001027a8758 chromedriver + 280408
+3   chromedriver                        0x0000000102791d00 chromedriver + 187648
+4   chromedriver                        0x0000000102791ae8 chromedriver + 187112
+5   chromedriver                        0x000000010281b8d8 chromedriver + 751832
+6   chromedriver                        0x00000001027d62d0 chromedriver + 467664
+7   chromedriver                        0x00000001027d7354 chromedriver + 471892
+8   chromedriver                        0x0000000102b3d6c4 chromedriver + 4036292
+9   chromedriver                        0x0000000102b41c64 chromedriver + 4054116
+10  chromedriver                        0x0000000102b482d8 chromedriver + 4080344
+11  chromedriver                        0x0000000102b42970 chromedriver + 4057456
+12  chromedriver                        0x0000000102b198dc chromedriver + 3889372
+13  chromedriver                        0x0000000102b6125c chromedriver + 4182620
+14  chromedriver                        0x0000000102b613b4 chromedriver + 4182964
+15  chromedriver                        0x0000000102b700f4 chromedriver + 4243700
+16  libsystem_pthread.dylib             0x000000018ba9b034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018ba95e3c thread_start + 8
+",,,,16:50:57,2024-01-11
+https://www.baileyscrossing.com/,No,,,,16:50:57,2024-01-11
