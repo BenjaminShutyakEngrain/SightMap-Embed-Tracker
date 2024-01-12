@@ -1,3 +1,4 @@
+#best version of code before a commit, usually will be a copy of code.py
 import datetime
 import re
 from urllib.parse import urlparse, urljoin
@@ -133,6 +134,5 @@ websites = [
         
 ]
 
-# Instantiate and run the scraper
 scraper = SightmapScraper(websites)
 scraper.scrape()
